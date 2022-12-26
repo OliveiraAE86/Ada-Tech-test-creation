@@ -1,7 +1,7 @@
 # Ada-Tech-test-creation
 Repository to add the tests created for Ada Tech
 
-Setup:
+Automation Setup:
 
 Python3 (Unless already installed):
 - Download Python3 via python.org/downloads
